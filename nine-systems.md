@@ -12,7 +12,6 @@ Measured values come from published experiments and fits; predicted values from 
 | Superfluid ⁴He                  | ~0 (10⁵–10⁷× below)    | ~0                         | ~0        | Extremely strong  |
 | Bose-Einstein Condensate        | ~0 (>10⁷× below)       | ~0                         | ~0        | Maximally strong  |
 | Neutron star matter             | ~0 (10⁶–10⁸× below)    | ~0                         | ~0        | Maximally strong  |
-| Strange metals                  | 1.25 – 5×              | 1.4 – 2.8×                 | ±10–40%   | Very strong       |
 | CMB photon-baryon plasma        | 0.006 – 0.02×          | 0.005 – 0.018×             | ±10–20%   | Maximally strong  |
 | Fractional Quantum Hall fluid   | 0.75 – 1.5×            | 0.82 – 1.35×               | ±10–15%   | Very strong       |
 
