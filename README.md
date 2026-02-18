@@ -1,4 +1,4 @@
-# ContinuumViscosity
+# Continuum Viscosity
 
 Nine very different quantum fluids show a consistent pattern in the ratio η/s (viscosity over entropy density):
 
@@ -12,4 +12,6 @@ Q₂ := σ / (π d²) = normalized transport cross-section
 
 Is discreteness (scattering/resistance) only a boundary phenomenon of a deeper continuum?
 
-Data sources & derivation: [nine-systems.md](nine-systems.md)
+Data sources & derivation: [nine-systems.md](https://github.com/gitfrid/ContinuumViscosity/blob/main/nine-systems.md)
+
+
