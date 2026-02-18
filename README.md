@@ -1,4 +1,4 @@
-# ContinuumViscosity
+# Continuum Viscosity
 
 Nine very different quantum fluids show a consistent pattern in the ratio η/s (viscosity over entropy density):
 
