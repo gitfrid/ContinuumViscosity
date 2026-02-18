@@ -1,0 +1,3 @@
+# Mathematical Derivation
+
+### Core Formula
