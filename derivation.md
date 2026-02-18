@@ -11,7 +11,7 @@ $$
 with
 
 $$
-\varepsilon = \kappa \, (\alpha Q_1 + \beta Q_2 + \gamma Q_3), \quad \alpha + \beta + \gamma = 1
+\varepsilon = \kappa (\alpha Q_1 + \beta Q_2 + \gamma Q_3), \quad \alpha + \beta + \gamma = 1
 $$
 
 where $\kappa$ is a small dimensionless scaling factor ($\sim 0.01$).
@@ -31,11 +31,8 @@ This definition connects naturally to the relaxation time $\tau = 1/(n \sigma v)
 
 ### Two Regimes
 
-- **Classical regime** ($\Gamma \ll 1$): $\sigma \approx \pi a^2 \exp(\Gamma)$ → $Q_2$ grows exponentially  
-- **Strongly quantum regime** ($\Gamma \gg 1$): $\sigma$ saturates at $\sim \lambda_{dB}^2$ → $Q_2$ saturates at $\sim 1$–$4$
+- **Classical regime** ($\Gamma \ll 1$): $\sigma \approx \pi a^2 \exp(\Gamma)$ $\to$ $Q_2$ grows exponentially
+
+- **Strongly quantum regime** ($\Gamma \gg 1$): $\sigma$ saturates at $\sim \lambda_{dB}^2$ $\to$ $Q_2$ saturates at $\sim 1$ to $4$
 
 This reproduces the observed saturation of $\eta/s$ near the KSS bound in strongly correlated systems and the collapse of viscosity in superfluid and topologically ordered phases.
-
----
-
-This is work in progress. Feedback and criticism are welcome.
