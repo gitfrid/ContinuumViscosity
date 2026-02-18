@@ -12,4 +12,4 @@ Q₂ := σ / (π d²) = normalized transport cross-section
 
 Is discreteness (scattering/resistance) only a boundary phenomenon of a deeper continuum?
 
-Data sources & derivation: [nine-systems.md](nine-systems.md)
+Data sources & derivation: [nine-systems.md](https://github.com/gitfrid/ContinuumViscosity/blob/main/nine-systems.md)
