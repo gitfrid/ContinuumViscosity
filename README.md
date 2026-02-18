@@ -14,4 +14,6 @@ Is discreteness (scattering/resistance) only a boundary phenomenon of a deeper c
 
 Data sources & derivation: [nine-systems.md](https://github.com/gitfrid/ContinuumViscosity/blob/main/nine-systems.md)
 
+Mathematical derivation: [derivation.md](https://github.com/gitfrid/ContinuumViscosity/blob/main/derivation.md)
+
 
